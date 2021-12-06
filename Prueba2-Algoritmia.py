@@ -15,4 +15,9 @@ def algoritmia(list, sum):
                     solution.append(aux)
 
     return solution
+
 print (algoritmia(list, sum))
+# La salida es:
+# [[0, 3], [1, 5], [2, 4]]
+
+# El orden de complejidad es cuadratico O(n^2)
