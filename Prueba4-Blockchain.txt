@@ -1,0 +1,12 @@
+En la red de BTC:
+    Hash : 000000000000000000003571ef879cc141afc2ebc7bb4fc70a2120ee39877fe9
+    Numero de transacciones : 3149
+    Solucion a la prueba de trabajo : 6.25000000 BTC
+    Comisiones pagadas por las transacciones : 0.15932446 BTC
+
+En la red de Eth:
+   Numero de bloque : 13645127
+   Ether enviados : 0 Ether enviados a si mismo (SELF)
+   Gas consumido :  0.001912972653795 Ether
+   Gas limit :  250,000
+   Gas price :  0.000000091093935895 Ether (91.093935895 Gwei)
