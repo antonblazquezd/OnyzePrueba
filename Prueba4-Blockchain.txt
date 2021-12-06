@@ -1,7 +1,7 @@
 En la red de BTC:
     Hash : 000000000000000000003571ef879cc141afc2ebc7bb4fc70a2120ee39877fe9
     Numero de transacciones : 3149
-    Solucion a la prueba de trabajo : 6.25000000 BTC
+    Solucion a la prueba de trabajo : 000000000000000000003571ef879cc141afc2ebc7bb4fc70a2120ee39877fe9
     Comisiones pagadas por las transacciones : 0.15932446 BTC
 
 En la red de Eth:
